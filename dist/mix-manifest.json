@@ -1,0 +1,7 @@
+{
+    "/app.js": "/app.js",
+    "/public/assets/js/site_common.min.js": "/public/assets/js/site_common.min.js",
+    "/public/assets/css/user_common.min.css": "/public/assets/css/user_common.min.css",
+    "/public/assets/css/site_common.min.css": "/public/assets/css/site_common.min.css",
+    "/public/assets/js/user_common.min.js": "/public/assets/js/user_common.min.js"
+}
